@@ -4,7 +4,7 @@
 In this project, we aim to build an ETL (Extract, Transform, Load) pipeline utilizing the Spotify API on AWS. The pipeline will efficiently extract data from the Spotify API, transform it to the desired format, and load it into the AWS Data Store.
 
 ## Architecture Diagram
-![Architecture Diagram](link_to_your_image)
+![Architecture Diagram]([link_to_your_image](https://github.com/AdarshBahadur/spotify-end-to-end-data-project/blob/main/Spotify_Data_Pipeline.png))
 
 ## About Dataset/API
 This API contains comprehensive information about music artists, albums, and songs - [Spotify API](link_to_spotify_api)
