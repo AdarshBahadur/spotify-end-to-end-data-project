@@ -27,3 +27,7 @@ This API contains comprehensive information about music artists, albums, and son
 pip install pandas
 pip install numpy
 pip install spotipy
+```
+
+## Project Execution Flow
+Extract Data from API -> Lambda Trigger (Every 1 Hour) -> Run extract Code -> Store Raw Data -> Trigger Transformation Function -> Transform Data and Load it -> Query using Athena.
