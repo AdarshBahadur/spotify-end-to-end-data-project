@@ -7,7 +7,7 @@ In this project, we aim to build an ETL (Extract, Transform, Load) pipeline util
 ![Architecture Diagram](https://github.com/AdarshBahadur/spotify-end-to-end-data-project/blob/main/Spotify_Data_Pipeline.png?raw=true)
 
 ## About Dataset/API
-This API contains comprehensive information about music artists, albums, and songs - [Spotify API]([link_to_spotify_api](https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF))
+This API contains comprehensive information about music artists, albums, and songs - [Spotify API](https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF)
 
 ## Services Used
 - **S3 (Simple Storage Service):** Amazon S3 is a highly scalable object storage service designed to store and retrieve any amount of data from anywhere on the web. It is commonly used for storing and distributing large media files, data backups, and static website files.
