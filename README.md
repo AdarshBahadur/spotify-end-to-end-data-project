@@ -30,4 +30,5 @@ pip install spotipy
 ```
 
 ## Project Execution Flow
-Extract Data from API -> Lambda Trigger (Every 1 Hour) -> Run extract Code -> Store Raw Data -> Trigger Transformation Function -> Transform Data and Load it -> Query using Athena.
+Extract Data from API -> Lambda Trigger (Every 1 Hour) -> Execute Extracted Data -> Store Raw Data in S3 -> Trigger Transformation Function -> Transform Data and Load it -> Store Transformed Data in S3 -> Query using Athena
+
